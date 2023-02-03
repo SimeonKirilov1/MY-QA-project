@@ -1,3 +1,14 @@
+*Worked with a real application.
+Test Case1- Login positive with correct credentials.
+Test Case2(negative) - Login negative/wrong Username.
+Test Case3(negative) - Login negative/wrong Password.
+Test Case4. - Vote in a Poll
+Test Case5 - Create a Poll
+
+
+
+
+
 {
   "id": "c7240046-dafd-421f-b186-330d476cd9b4",
   "version": "2.0",
